@@ -1,7 +1,0 @@
-minimal_publisher:
-  ros__parameters:
-    publish_frequency: 2.0
-    topic_name: my_topic
-minimal_subscriber:
-  ros__parameters:
-    topic_name: my_topic
