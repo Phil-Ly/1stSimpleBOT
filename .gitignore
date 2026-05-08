@@ -2,6 +2,8 @@ devel/
 log/
 build/
 install/
+logs/
+build/
 bin/
 lib/
 msg_gen/
@@ -53,3 +55,4 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+
