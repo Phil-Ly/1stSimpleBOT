@@ -1,8 +1,4 @@
 devel/
-log/
-build/
-install/
-logs/
 build/
 install/
 bin/
@@ -50,6 +46,15 @@ qtcreator-*
 
 # Emacs
 .#*
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Environment variables
+.env
+.env.local
 
 # macOS
 .DS_Store
